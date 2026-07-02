@@ -1,128 +1,197 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0f172a,100:38bdf8&height=260&section=header&text=ARLEN%20OS&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20Operating%20System%20%7C%20Web%20%C2%B7%20AI%20%C2%B7%20Product&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,35:111827,70:2563eb,100:38bdf8&height=270&section=header&text=ARLEN&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Systems%20Builder&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=22\&duration=2200\&pause=700\&color=38BDF8\&center=true\&vCenter=true\&width=820\&lines=Initializing+Arlen+OS...;Loading+developer+modules...;Compiling+ideas+into+products...;Status%3A+Building+%2B+Improving)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=22\&duration=2300\&pause=800\&color=38BDF8\&center=true\&vCenter=true\&width=900\&lines=Building+Full-Stack+Applications;Designing+AI-Powered+Systems;Connecting+Frontend+%2B+Backend+%2B+Intelligence;Shipping+Useful+Digital+Products)
 
 </div>
 
 ---
 
 ```txt
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   ARLEN OS                                                 │
-│   Developer Operating System                               │
-│                                                            │
-│   Kernel      : Web Development                            │
-│   Runtime     : AI Tools · Product Thinking · Clean UI      │
-│   Interface   : Minimal · Practical · Systematic            │
-│   Status      : Online                                      │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────╮
+│                                                                │
+│   ARLEN AI SYSTEMS                                             │
+│   Full-Stack Developer · AI Engineer · Product Builder          │
+│                                                                │
+│   Layer 01  : Frontend Interfaces                              │
+│   Layer 02  : Backend Services                                 │
+│   Layer 03  : AI Workflows                                     │
+│   Layer 04  : Product Systems                                  │
+│                                                                │
+│   Mission   : Build intelligent, practical, and scalable tools  │
+│   Status    : Designing · Coding · Shipping                    │
+│                                                                │
+╰────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## `~/profile`
+## `~/identity`
 
 ```yaml
-user: Arlen
-role: Developer / Builder
-mode: Learning -> Building -> Improving
+name: Arlen
+role:
+  - Full-Stack Developer
+  - AI Engineer
+  - Systems Builder
+
 focus:
-  - Web Development
-  - AI-powered Tools
-  - Product Design
-  - Practical User Interfaces
-principle:
-  - Build useful things
-  - Keep the interface clean
-  - Improve through real projects
+  - Web Applications
+  - AI-Powered Products
+  - Automation Workflows
+  - Backend Services
+  - Clean User Interfaces
+
+direction:
+  - Build complete products from idea to deployment
+  - Connect frontend, backend, database, and AI capabilities
+  - Turn practical problems into usable digital systems
 ```
 
 ---
 
-## `~/system/about`
+## `~/about`
 
-I’m **Arlen**, a developer focused on building clean, practical, and well-designed digital products.
+Hi, I'm **Arlen**.
 
-I care about the full path from **idea → interface → working product**.
-My current direction is combining **modern web development**, **AI tools**, and **product thinking** to create projects that are useful, polished, and easy to understand.
+I’m focused on becoming a **Full-Stack Developer** and **AI Engineer**, building practical applications that combine clean interfaces, reliable backend systems, and intelligent AI-powered workflows.
+
+I care about the complete product path:
 
 ```txt
-input   : idea
-process : design + code + iterate
-output  : usable product
+idea -> design -> frontend -> backend -> AI integration -> deployment -> iteration
 ```
+
+My goal is to build products that are not only functional, but also **useful, scalable, and polished**.
 
 ---
 
-## `~/modules`
+## `~/engineering.stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,mongodb,postgres,git,github,docker,vscode,figma" />
 
 </div>
 
 <br />
 
 ```txt
-┌───────────────────────┬────────────────────────────────────┐
-│ Module                │ Stack                              │
-├───────────────────────┼────────────────────────────────────┤
-│ Interface             │ HTML · CSS · JavaScript · React     │
-│ Application           │ TypeScript · Next.js · Node.js      │
-│ Automation            │ Python · API · AI Tools             │
-│ Workflow              │ Git · GitHub · VS Code · Figma      │
-└───────────────────────┴────────────────────────────────────┘
+┌───────────────────────┬──────────────────────────────────────────────┐
+│ Engineering Layer     │ Tools / Technologies                         │
+├───────────────────────┼──────────────────────────────────────────────┤
+│ Frontend              │ HTML · CSS · JavaScript · TypeScript          │
+│ UI Framework          │ React · Next.js                               │
+│ Backend               │ Node.js · Express · Python · FastAPI          │
+│ Database              │ MongoDB · PostgreSQL                          │
+│ AI Engineering        │ LLM APIs · Prompt Design · AI Workflows       │
+│ Dev Workflow          │ Git · GitHub · Docker · VS Code               │
+│ Product Design        │ Figma · UX Thinking · Interface Systems       │
+└───────────────────────┴──────────────────────────────────────────────┘
 ```
 
 ---
 
-## `~/developer/status`
+## `~/ai.engineering`
 
 ```txt
-Frontend Development     ████████░░   active
-UI Implementation        ███████░░░   active
-JavaScript / TypeScript  ███████░░░   upgrading
-React / Next.js          ██████░░░░   learning
-Python / Automation      █████░░░░░   exploring
-Product Thinking         ████████░░   growing
+AI Direction             Status
+────────────────────────────────────────────
+LLM Application Design   ████████░░   building
+Prompt Engineering       ████████░░   improving
+AI Workflow Automation   ███████░░░   exploring
+API Integration          ███████░░░   active
+Data Processing          ██████░░░░   learning
+Agentic Systems          █████░░░░░   researching
 ```
 
----
-
-## `~/current/tasks`
+I’m interested in building AI systems that can support real workflows, such as:
 
 ```txt
-[ running ] Build stronger frontend fundamentals
-[ running ] Create polished personal projects
-[ running ] Learn React / Next.js patterns
-[ running ] Explore AI-powered workflows
-[ queued  ] Ship more public repositories
-[ queued  ] Improve portfolio presentation
+[01] AI-powered productivity tools
+[02] Intelligent web applications
+[03] Automation systems
+[04] Data-driven product features
+[05] LLM-based assistants and agents
 ```
 
 ---
 
-## `~/project-lab`
+## `~/fullstack.system`
 
-| Project               | Type                        | Status    |
-| --------------------- | --------------------------- | --------- |
-| **Portfolio System**  | Personal website / identity | Building  |
-| **Web App Interface** | Frontend practice project   | Improving |
-| **AI Tool Prototype** | AI-powered utility          | Exploring |
-| **GitHub Profile OS** | Developer branding system   | Online    |
+```txt
+Frontend Architecture    ████████░░   active
+Backend Development      ███████░░░   active
+API Design               ███████░░░   active
+Database Modeling        ██████░░░░   improving
+Authentication           ██████░░░░   learning
+Deployment Workflow      ██████░░░░   improving
+```
+
+```txt
+System Blueprint
+
+User Interface
+      ↓
+Frontend Logic
+      ↓
+API Layer
+      ↓
+Backend Service
+      ↓
+Database
+      ↓
+AI / Automation Layer
+      ↓
+Product Experience
+```
 
 ---
 
-## `~/github/analytics`
+## `~/current.focus`
+
+```txt
+[ active ] Building full-stack web applications
+[ active ] Learning AI engineering workflows
+[ active ] Improving backend and API design
+[ active ] Creating clean and useful user interfaces
+[ active ] Exploring LLM-powered product features
+[ queued ] Shipping more public projects
+[ queued ] Building a stronger technical portfolio
+```
+
+---
+
+## `~/project.lab`
+
+| Project                  | Type                  | Direction               |
+| ------------------------ | --------------------- | ----------------------- |
+| **AI Assistant App**     | Full-stack AI product | LLM API · Backend · UI  |
+| **Automation Dashboard** | Productivity system   | Python · API · Frontend |
+| **Portfolio Platform**   | Personal brand system | Next.js · UI Design     |
+| **Data Tool Prototype**  | AI / data utility     | Python · Visualization  |
+| **Developer Console**    | GitHub profile system | Markdown · GitHub       |
+
+---
+
+## `~/build.principles`
+
+```txt
+01. Build practical tools, not just demos
+02. Keep interfaces clean and understandable
+03. Design systems that can grow
+04. Connect AI with real product value
+05. Learn by shipping complete projects
+```
+
+---
+
+## `~/github.analytics`
 
 <div align="center">
 
@@ -134,11 +203,11 @@ Product Thinking         ████████░░   growing
 
 ---
 
-## `~/activity`
+## `~/activity.graph`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arlen-s&theme=github-compact&hide_border=true&bg_color=020617&color=38bdf8&line=0ea5e9&point=e5e7eb" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arlen-s&theme=github-compact&hide_border=true&bg_color=020617&color=38bdf8&line=2563eb&point=e5e7eb" />
 
 </div>
 
@@ -149,8 +218,8 @@ Product Thinking         ████████░░   growing
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arlen-020617?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arlen-s)
-[![System](https://img.shields.io/badge/ARLEN%20OS-Online-0ea5e9?style=for-the-badge\&logo=linux\&logoColor=white)](https://github.com/arlen-s)
-[![Mode](https://img.shields.io/badge/Mode-Building-38bdf8?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)](https://github.com/arlen-s)
+[![Role](https://img.shields.io/badge/Full--Stack-Developer-2563eb?style=for-the-badge\&logo=nextdotjs\&logoColor=white)](https://github.com/arlen-s)
+[![AI](https://img.shields.io/badge/AI-Engineer-38bdf8?style=for-the-badge\&logo=openai\&logoColor=white)](https://github.com/arlen-s)
 
 </div>
 
@@ -159,10 +228,15 @@ Product Thinking         ████████░░   growing
 <div align="center">
 
 ```txt
-arlen@github:~$ build --clean --useful --polished
-status: shipped
+arlen@github:~$ build --fullstack --ai-powered --product-focused
+
+output:
+  intelligent systems
+  useful products
+  clean interfaces
+  scalable workflows
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:0f172a,100:020617&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:2563eb,100:020617&height=150&section=footer" />
 
 </div>
