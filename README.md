@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm gitfut 👋
+# Hi, I'm arlen 👋
 
 ### Developer · Builder · Technology Explorer
 
@@ -31,7 +31,7 @@ I focus on learning modern web development, improving my coding skills, and expl
 ## Developer Profile
 
 ```txt
-Name        : gitfut
+Name        : arlen
 Role        : Frontend / Full-stack Learner
 Focus       : Web Development · AI Tools · Product Building
 Status      : Learning, building, improving
