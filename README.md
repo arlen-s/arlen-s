@@ -190,16 +190,16 @@ Product Experience
 ```
 
 ---
-
 ## `~/github.analytics`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arlen-s&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arlen-s&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlen-s&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlen-s&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
