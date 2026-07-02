@@ -4,7 +4,7 @@
 
 ### Developer · Builder · Technology Explorer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=gitfut&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=arlen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm **gitfut**, a developer interested in building clean, practical, and well-designed digital products.
+I'm **arlen**, a developer interested in building clean, practical, and well-designed digital products.
 
 I focus on learning modern web development, improving my coding skills, and exploring how technology can turn ideas into useful tools.
 
@@ -76,9 +76,9 @@ Goal        : Create useful and polished projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitfut&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arlen&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitfut&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlen&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -88,7 +88,7 @@ Goal        : Create useful and polished projects
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gitfut&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=arlen&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -98,7 +98,7 @@ Goal        : Create useful and polished projects
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-gitfut-181717?style=for-the-badge\&logo=github)](https://github.com/gitfut)
+[![GitHub](https://img.shields.io/badge/GitHub-arlen-181717?style=for-the-badge\&logo=github)](https://github.com/arlen)
 
 </div>
 
